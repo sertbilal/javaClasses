@@ -27,6 +27,7 @@ public class Recap_StringManipulations {
         System.out.println(x==y);
         
         
+        
 /*.equals : compares the values (are both of them have the same sequence of char? )
 *    ==   : compares the objects   (are these same objects? )
 *in case str3==str4   --> false = because pointing to different places in memory, 
