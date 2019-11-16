@@ -20,6 +20,8 @@ public class Car {
 		void accelerate () {
 			System.out.println("Car "+make+" can accelerate");
 		}
+		
+		
 
 	}
 
